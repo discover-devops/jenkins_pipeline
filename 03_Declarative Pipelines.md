@@ -33,4 +33,4 @@ pipeline {
 
 Declarative Pipeline is easier to use and designed for most common CI/CD workflows without needing to dive deep into Groovy programming.
 
-Let me know if you need more clarification on this!
+
